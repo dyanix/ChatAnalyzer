@@ -5,7 +5,8 @@ import seaborn as sns
 
 
 st.sidebar.title("Whatsapp Chat Analyzer")
-
+text1 = st.sidebar.text("Made by dyanesh ♛ ♛")
+text1 = st.sidebar.text("(Mini-Project)")
 uploaded_file = st.sidebar.file_uploader("Choose a file")
 if uploaded_file is not None:
     bytes_data = uploaded_file.getvalue()
