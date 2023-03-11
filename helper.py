@@ -136,4 +136,3 @@ def activity_heatmap(selected_user,df):
 
 
 
-
