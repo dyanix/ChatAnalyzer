@@ -6,7 +6,7 @@ import seaborn as sns
 
 st.sidebar.title("Whatsapp Chat Analyzer")
 text1 = st.sidebar.text("Made by dyanesh ♛ ♛")
-text1 = st.sidebar.text("(Mini-Project)")
+text2 = st.sidebar.text("(Mini-Project)")
 uploaded_file = st.sidebar.file_uploader("Choose a file")
 if uploaded_file is not None:
     bytes_data = uploaded_file.getvalue()
@@ -16,7 +16,7 @@ if uploaded_file is not None:
 
     # fetch unique users
     user_list = df['user'].unique().tolist()
-    user_list.remove('group_notification')
+    # user_list.remove('group_notification')
     user_list.sort()
     user_list.insert(0, "Overall")
 
