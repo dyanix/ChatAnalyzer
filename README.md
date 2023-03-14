@@ -36,7 +36,7 @@ A web application built using Streamlit that allows users to analyze WhatsApp ch
 
 >To get started with this project, follow these steps:
 >
->Clone the repository: git clone https://github.com/sidraabid99/whatsapp-chat-analyzer.git
+>Clone the repository: git clone https://github.com/dyanix/ChatAnalyzer.git
 >
 >Install the required packages: pip install -r reqirements.txt
 >
