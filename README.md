@@ -38,7 +38,7 @@ A web application built using Streamlit that allows users to analyze WhatsApp ch
 >
 >Clone the repository: git clone https://github.com/sidraabid99/whatsapp-chat-analyzer.git
 >
->Install the required packages: pip install -r requirements.txt
+>Install the required packages: pip install -r reqirements.txt
 >
 >Run the app: streamlit run app.py
 
