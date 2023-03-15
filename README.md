@@ -61,3 +61,6 @@ A web application built using Streamlit that allows users to analyze WhatsApp ch
 <p align="center"><img width="50%" height="auto" href="https://dyanix.github.io/portfolio/" src="Github3.png"/></p>
 <p align="center"><img width="50%" height="auto" href="https://dyanix.github.io/portfolio/" src="Github4.png"/></p>
 <p align="center"><img width="50%" height="auto" href="https://dyanix.github.io/portfolio/" src="Github5.png"/></p>
+<p align="center"><img width="50%" height="auto" href="https://dyanix.github.io/portfolio/" src="Github6.png"/></p>
+<p align="center"><img width="50%" height="auto" href="https://dyanix.github.io/portfolio/" src="Github7.png"/></p>
+
