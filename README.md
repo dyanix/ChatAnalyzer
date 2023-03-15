@@ -54,7 +54,7 @@ A web application built using Streamlit that allows users to analyze WhatsApp ch
 >
 >Use the dropdowns to view different visualizations such as daily timeline, activity map, and wordcloud.
 
-
+# Sneak Peak
 
 <p align="center"><img width="50%" height="auto" href="https://dyanix.github.io/portfolio/" src="Github1.png"/></p>
 <p align="center"><img width="50%" height="auto" href="https://dyanix.github.io/portfolio/" src="Github2.png"/></p>
